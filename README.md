@@ -5,9 +5,6 @@ Công cụ Tìm kiếm Mã nguồn C++ cho Windows
 Tính năng Nổi bật
 Đăng nhập Cơ bản: Một màn hình đăng nhập đơn giản để hạn chế quyền truy cập.
 
-//TK: longurara
-//MK: test1234
-
 Tìm kiếm Đệ quy: Tự động quét tất cả các thư mục con từ một thư mục gốc được chỉ định.
 
 Hỗ trợ Từ khóa Nâng cao:

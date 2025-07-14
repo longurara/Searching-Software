@@ -1,11 +1,3 @@
-// HƯỚNG DẪN BIÊN DỊCH QUAN TRỌNG
-// ---------------------------------
-// Chương trình này yêu cầu chuẩn C++17 hoặc mới hơn.
-// Vui lòng sử dụng cờ -std=c++17 khi biên dịch với g++.
-//
-// Ví dụ: g++ -std=c++17 -o TimKiem.exe your_source_file.cpp
-// ---------------------------------
-
 #include <iostream>
 #include <string>
 #include <vector>
@@ -15,11 +7,11 @@
 #include <cctype>
 #include <stdexcept>
 #include <limits>
-#include <windows.h> // Sử dụng trực tiếp Windows API
-#include <conio.h>   // Để đọc ký tự ngay lập tức (cho auto-complete)
-#include <regex>     // Để phân tích mã nguồn và tìm tên hàm
-#include <map>       // Dùng trong cấu trúc Trie
-#include <set>       // Để lưu trữ các định danh duy nhất
+#include <windows.h> 
+#include <conio.h>  
+#include <regex>    
+#include <map>      
+#include <set>       
 
 // --- Cài đặt màu sắc cho Console ---
 const std::string COLOR_GREEN = "\x1B[32m";

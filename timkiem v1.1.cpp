@@ -1,12 +1,3 @@
-// HƯỚNG DẪN BIÊN DỊCH QUAN TRỌNG
-// ---------------------------------
-// Chương trình này yêu cầu chuẩn C++17 hoặc mới hơn.
-// Vui lòng sử dụng cờ -std=c++17 khi biên dịch với g++.
-//
-// Ví dụ: g++ -std=c++17 -o TimKiem.exe your_source_file.cpp
-//
-// ** KHÔNG CẦN cờ -lstdc++fs với phiên bản này **
-// ---------------------------------
 
 #include <iostream>
 #include <string>

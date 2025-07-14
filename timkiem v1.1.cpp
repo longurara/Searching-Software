@@ -8,7 +8,7 @@
 #include <cctype>
 #include <stdexcept>
 #include <limits>
-#include <windows.h> // Sử dụng trực tiếp Windows API
+#include <windows.h> 
 
 // Define color codes for output
 const std::string COLOR_GREEN = "\x1B[32m";
